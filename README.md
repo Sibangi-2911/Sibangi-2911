@@ -7,7 +7,7 @@
 </p>
 
 ----------------------------------------------------------------------------------
-💻 **About Me**<img src="https://nie.ac.in/wp-content/uploads/2022/10/AI-resized.png" min-width="300px" max-width="300px" width="350px" align="right"> <br>
+💻 **About Me**<img src="https://github.com/user-attachments/assets/85ff1ad6-28c1-4dff-a0d4-dea446ca8f84" min-width="300px" max-width="300px" width="350px" align="right"> <br>
 🚀  AI-ML Enthusiast | Python | Java | IGIT CSE'26 <br>
 🌟Enthusiastic Student with skills and keen interest in learning new skills and
 implementing my skills in developing something new. Bringing strong work ethic and
