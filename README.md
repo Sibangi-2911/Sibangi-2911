@@ -76,9 +76,15 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sibangi-2911&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
+<h3 align="left">🔥 GitHub Streak</h3>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sibangi-2911" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sibangi-2911&theme=default&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
+
+
+
+
 
 
 
