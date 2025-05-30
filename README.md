@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Machine Learning, AI, and Generative AI**
+- 🔭 I’m currently working on **Machine Learning, AI, and Web Development**
 
 - 📝 I regularly read articles on [Baeldung](https://www.baeldung.com/)
 
