@@ -77,7 +77,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sibangi-2911&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sibangi-2911&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sibangi-2911&theme=default&cache_seconds=1800"  alt="GitHub Streak" />
 </p>
 
 <p align="center">
