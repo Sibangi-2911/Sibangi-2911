@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SIBANGI BOXIPATRO</h1>
+<h1 align="center">Hi 👋, I'm SIBANGI BOXIPATRO </h1>
 <h3 align="center">🧠 Final-year B.Tech CS student passionate about clean code, problem-solving, and emerging technologies.</h3>
 
 <p align="left">
