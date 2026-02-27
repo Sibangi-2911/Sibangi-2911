@@ -2,11 +2,11 @@
 <h3 align="center">🧠 Final-year B.Tech CS student passionate about clean code, problem-solving, and emerging technologies.</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sibangi-2911&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Sibangi-2911&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=sibangi-2911&theme=algolia&no-frame=true&margin-w=15&v=2" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sibangi-2911&theme=algolia&no-frame=true&margin-w=15&v=2" />
 </p>
 
 - 🔭 I’m currently working on **Machine Learning, AI, and Web Development**
