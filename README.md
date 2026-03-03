@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SIBANGI BOXIPATRO</h1>
-<h3 align="center">🧠 Final-year B.Tech CS student | 🤖 Automation Testing Enthusiast | 💻 Full-Stack Learner</h3>
+<h3 align="center">🧠 Final-year B.Tech CSE student | 🤖 Automation Testing Enthusiast | 💻 Full-Stack Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sibangi-2911&label=Profile%20views&color=0e75b6&style=flat" />
