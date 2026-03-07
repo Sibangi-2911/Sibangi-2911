@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Working on **Machine Learning, AI, Web Development & Automation Testing**
+- 🔭 Working on **Machine Learning, AI & Automation Testing**
 - 🧪 Building **Playwright Automation Projects**
 - 📝 Reading articles on **Baeldung**
 - 💬 Ask me about **Java, Python, React, Playwright, ML, HTML, CSS, JavaScript**
