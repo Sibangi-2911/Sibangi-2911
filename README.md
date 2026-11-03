@@ -25,6 +25,7 @@ Building SAP Manufacturing expertise with a strong foundation in software develo
 * 💼 Building hands-on expertise in **SAP S/4HANA Manufacturing**
 * 🏭 Focused on **SAP Production Planning (PP), Quality Management (QM), and Variant Configuration (VC)**
 * ⚙️ Working on practical end-to-end SAP manufacturing scenarios
+* 🏆 **SAP Certified Associate - Back-End Developer - ABAP Cloud**
 * 🧩 Interested in understanding both **SAP configuration and manufacturing business logic**
 * 💻 Expanding toward **SAP Fiori/UI5, BTP, CAP, OData/APIs, and ABAP Cloud**
 * 🤖 Interested in **SAP + Automation + Software Development + Generative AI**
